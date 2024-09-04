@@ -1,10 +1,11 @@
-# Olá Pessoal / Hi there 👋
-<!-- Cabeçalho -->
+# Olá Pessoal 👋
+## Hi there 👋
 
-## Me chamo Ricardo Dossena Vargas
-### Teste
-#### Teste1
-##### teste2
+## Me chamo **Ricardo Dossena Vargas**
+### My name's **Ricardo Dossena Vargas**
+
+## Seja bem vindo ao meu perfil!
+### Welcome to my profile!
 <!--
 **RicardoDVargas/RicardoDVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
