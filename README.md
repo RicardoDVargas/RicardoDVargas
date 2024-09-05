@@ -1,11 +1,40 @@
-# Olá Pessoal 👋
-Hi there 👋
+# Bem vindo ao meu GitHub ✨
 
-## Me chamo **Ricardo Dossena Vargas**
-My name's **Ricardo Dossena Vargas**
+![Panda Rage](https://tenor.com/pt-BR/view/panda-rage-gif-10192107)
 
-## Seja bem vindo ao meu perfil!
-Welcome to my profile!
+😏 Me chamo Ricardo Dossena Vargas
+
+💫 Trabalho com Marketing e Ecommerce
+
+🤓 Atualmente estudando _**programação**_
+
+📫 Você pode me contatar pelo e-mail: **_ricardodossenavargas@gmail.com_**
+
+---
+
+### Tecnologias
+
+Tenho conhecimento das tecnologias:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style=" width: 75px; margin: 3px 6px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style=" width: 75px; margin: 3px 6px;">
+
+E estou estudando:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style=" width: 75px; margin: 3px 6px;">
+
+---
+
+### Certificados
+
+| Curso |  Certificado  |
+| ----- |  -----------  |
+| Linguagem de programação | [Certificado](https://hermes.dio.me/certificates/RURAHGO5.pdf)
+
+---
+
+![Ricardo Vargas Github Status](https://github-readme-stats.vercel.app/api?username=RicardoVargas&show_icons=true&theme=radical)
+
 <!--
 **RicardoDVargas/RicardoDVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
