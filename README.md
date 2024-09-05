@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub ✨
 
-![Panda Rage](https://tenor.com/pt-BR/view/panda-rage-gif-10192107)
+![Panda Rage](https://giphy.com/gifs/panda-angry-breaking-EPcvhM28ER9XW)
 
 😏 Me chamo Ricardo Dossena Vargas
 
