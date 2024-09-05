@@ -21,6 +21,7 @@ E estou estudando:
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style=" width: 75px;">
 </p>
+
 ---
 
 ### Certificados
