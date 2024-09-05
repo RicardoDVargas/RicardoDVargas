@@ -34,4 +34,4 @@ E estou estudando:
 
 ![Ricardo Vargas Github Status](https://github-readme-stats.vercel.app/api?username=RicardoDVargas&show_icons=true&theme=radical)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDVargas?layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoDVargas&layout=compact&langs_count=7&theme=radical"/>
