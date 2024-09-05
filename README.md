@@ -33,7 +33,7 @@ E estou estudando:
 
 ---
 
-![Ricardo Vargas Github Status](https://github-readme-stats.vercel.app/api?username=Ricardo&Vargas&show_icons=true&theme=radical)
+![Ricardo Vargas Github Status](https://github-readme-stats.vercel.app/api?username=Ricardo_Vargas&show_icons=true&theme=radical)
 
 <!--
 **RicardoDVargas/RicardoDVargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
