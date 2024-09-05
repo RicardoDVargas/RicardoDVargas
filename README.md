@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub ✨
 
-![Panda Rage](https://giphy.com/gifs/panda-angry-breaking-EPcvhM28ER9XW)
+<video src="https://giphy.com/gifs/panda-angry-breaking-EPcvhM28ER9XW" type="video/mp4"></video>
 
 😏 Me chamo Ricardo Dossena Vargas
 
